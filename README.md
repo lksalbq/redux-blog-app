@@ -1,3 +1,3 @@
-# ReduxSimpleStarter
+# Redux Blog APP
 
 - Simple lab from the React-Redux course [Redux](https://www.udemy.com/react-redux/)
